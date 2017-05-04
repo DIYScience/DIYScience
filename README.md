@@ -28,6 +28,11 @@ What kind of help do we need?
 
 How to Contribute
 -----------------
+
+1. **Advocacy Campaign**: 
 This is an evolving project and precise nature of what we'll be focussing will be defined in the next weeks.
-- We plan to kick-off at the [Biofabbing Convergence](http://citizensciences.net/biofabbing/), Geneva, 10-14th May 2017 with some stakeholder mapping, further team-buiding, and planning sessions for our advocacy efforts. Through that we should be able to design a roadmap and some concrete work packages.
-- We will be part of the [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/), 1-2nd June - [issue in the mozilla/global-sprint repo here](https://github.com/mozilla/global-sprint/issues/64). More details on what we'll be working on there to follow.
+    - We plan to kick-off at the [Biofabbing Convergence](http://citizensciences.net/biofabbing/), Geneva, 10-14th May 2017 with some stakeholder mapping, further team-buiding, and planning sessions for our advocacy efforts. Through that we should be able to design a roadmap and some concrete work packages.
+    - We will be part of the [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/), 1-2nd June - [issue in the mozilla/global-sprint repo here](https://github.com/mozilla/global-sprint/issues/64). More details on what we'll be working on there to follow.
+
+2. **Crowdsourcing Resources**: 
+We are starting out with a project to document funding opportunities for grassroots projects. Please feel free to [contribute to the project here](https://github.com/DIYScience/DIYScience/projects/4).
