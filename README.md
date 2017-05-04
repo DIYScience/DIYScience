@@ -36,3 +36,9 @@ This is an evolving project and precise nature of what we'll be focussing will b
 We are starting out with a project to document funding opportunities for grassroots projects. Please feel free to [contribute to the project here](https://github.com/DIYScience/DIYScience/projects/4).
 
 We will be part of the [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/), 1-2nd June - [issue in the mozilla/global-sprint repo here](https://github.com/mozilla/global-sprint/issues/64). More details on what we'll be working on there to follow.
+
+
+
+Code of Conduct
+---------------
+We want this project to be a safe and welcoming space for everyone, and as such ask that anyone contributing respect the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). Thank you!
