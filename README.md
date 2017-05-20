@@ -41,4 +41,4 @@ We will be part of the [Mozilla Global Sprint](https://mozilla.github.io/global-
 
 Code of Conduct
 ---------------
-We want this project to be a safe and welcoming space for everyone, and as such ask that anyone contributing respect the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). Thank you!
+We want this project to be a safe and welcoming space for everyone, and as such ask that anyone contributing respect the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). Please report unacceptable behavior to [lucy@lucypatterson.de](mailto:lucy@lucypatterson.de). Thank you!
