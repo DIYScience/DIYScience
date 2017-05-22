@@ -44,8 +44,8 @@ Our network and our content could really use a home! We’d also like to work on
 **How to contribute**: We’re planning the site in this github project, '[DIY Science website](https://github.com/DIYScience/DIYScience/projects/5)'. Please take a look at the issues and see how you can help.
   
   
-Communication channels
-----------------------
+Communication channel
+---------------------
 Have questions? Come chat with us in our Riot channel, [#DIYscience_github:matrix.org](https://riot.im/app/#/room/#DIYscience_github:matrix.org)  
 [![DIYScience_github](https://avatars0.githubusercontent.com/u/13446337?v=3&s=50 "DIYScience_github")](https://riot.im/app/#/room/#DIYscience_github:matrix.org)
 
