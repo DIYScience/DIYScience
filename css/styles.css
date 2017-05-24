@@ -1,0 +1,211 @@
+/*
+  Author: Steven Van Sant
+  doctype: css
+  License: Not available
+*/
+
+/* [html] */
+body{
+    font-size:1vw;
+}
+
+/* [xhtml] */
+j-viewport{
+  position: relative;
+  display: inline-block;
+}
+j-tray{
+  display: block; overflow: hidden;
+}
+j-menu{
+  display: inline-block; overflow: hidden;
+  background: rgba(255,255,255,.95);
+}
+j-select{
+    position: relative;
+    display: inline-block; overflow-Y: hidden; overflow-X: hidden; 
+    background-color: rgb(255,255,255);
+}
+j-switch{
+  display: block;
+}
+j-option{
+  position: relative;
+  width: 100%; height: auto; 
+  display: block; overflow: hidden;
+  background-color: rgb(255,255,255);
+}
+e-ln{
+  position:relative; width: 100%; height: calc(99.5%/4);
+  border: inset .1vw black ; background: rgb(255,255,255);
+  display: block;
+}
+e-key{
+  position: relative; top: 0px; left: 0px; width: 15%; height: 100%;
+  display: inline-block;
+  background: rgb(215,215,215);
+  text-align: center;
+}
+e-txt{
+  position: relative; top: 0px; left: 0px; width: 85%; height: 100%;
+  display: inline-block;
+  background: rgb(215,245,215);
+}
+j-switch:hover{
+  background: rgb(135,185,135);
+  border-color: green;
+}
+e-key:hover{
+  background: rgb(185,185,135);
+  border-color: yellow;
+}
+e-txt:hover{
+  background: rgb(135,135,255);
+  border-color: skyblue;
+}
+
+/* [utility classes] */
+.memory{
+  position: fixed; left: 0px; top: 0px; width: 0px; height: 0px;
+  overflow: hidden; opacity: 0;
+}
+.tray{
+  position: relative; left: auto; top: auto; width: auto; height: auto;
+  overflow-X: hidden; overflow-Y: scroll;
+  background: rgba(77,77,77,1);
+  border: outset 2px rgba(177,177,177,1);
+}
+.display{
+  margin: 5px 0px 5px 0px;
+  display: block;
+  background: rgba(240,240,255,1);
+}
+.container{
+  position: absolute;
+  padding: .05vw;
+  background: rgba(240,240,255,1);
+}
+.block{
+  display: block;
+}
+.inline-block{
+  display: inline-block;
+}
+.canvas{
+  width: 80%; height: 80%;
+  margin-left: 5%; margin-top: 2.5%;
+  display: inline-block;
+  background: rgba(215,215,215,1); fill: rgba(240,240,255,1);
+}
+.btn{
+  width: 3.25vw; height: 3.25vw;
+  padding: .15vw; margin: .15vw;
+  display: inline-block;
+  background-color: rgb(185,185,185); border: outset 2px rgb(96,96,96);
+}
+.btn-small{
+  width: 1vw; height: auto;
+  padding: .05vw; margin: .05vw;
+  display: inline-block;
+  text-align: center;
+  background-color: rgb(185,185,185); border: outset 2px rgb(96,96,96);
+}
+.btn-label{
+  display: inline-block;
+  text-align: center;
+}
+.logo-btn{
+  padding: .515vw; margin: 5px;
+  display: block;
+  background-color: rgba(255,255,255,.95); border: outset 2px rgb(96,96,96);
+}
+.circle-icon{
+  border-radius: 50%;
+  background: white; border-style: outset;
+}
+.square-large{
+  width: 5.25vw; height: 5.25vw;
+}
+.right-wall{
+  position: absolute; left: 90%; top: 11%; width: 10%; height: 65%;
+}
+.fit-large{
+  width: auto; height: 100%;
+}
+.index-tray{
+  position: relative; width: 50%; height: 100%;
+  display: inline-block;
+}
+.rel{
+  position: relative;
+  display: block;
+}
+.abs{
+  position: absolute;
+  display: block;
+}
+.span-window{
+  position: absolute; top: 0px; left: 0px;
+  width: 100%;
+}
+.snug-window{
+  position: absolute; top: 0px; left: 0px;
+  width: 99%;
+}
+
+/* [text classes] */
+.lite-text{
+  color: rgba(215,215,215,1); stroke: rgba(215,215,215,1); fill: rgba(75,75,85,1);
+}
+.dark-text{
+  color: rgba(75,75,85,1); stroke: rgba(75,75,85,1); fill: rgba(75,75,85,1);
+}
+.steel-text{
+  color: rgba(175,175,185,1); stroke: rgba(175,175,185,1); fill: rgba(175,175,185,1);
+}
+.lite-outline{
+  stroke: rgba(175,175,185,1); 
+}
+.dark-outline{
+  stroke: rgba(75,75,85,1); 
+}
+.paragraph{
+  font-size: 1.5vw;
+}
+.sub-title{
+  font-size: 1.75vw; stroke-width: .15px; stroke: rgb(75,75,75); fill: rgb(35,35,35); color: rgb(35,35,35);
+  text-decoration: underline;
+}
+.item-title{
+  font-size: 1.35vw; font-weight: bold;  stroke-width: .25px; stroke: rgb(145,145,145); fill: rgb(145,145,145); color: rgb(145,145,145);
+  text-decoration: underline;
+}
+.col-title{
+  font-size: 1.35vw; font-weight: bold; stroke-width: .15px; stroke: rgb(75,75,75); fill: rgb(35,35,35); color: rgb(35,35,35);
+  text-decoration: underline;
+}
+.item-desc{
+  font-size: 1.15vw; font-weight: normal; stroke-width: .5px; stroke: rgb(185,185,185); fill: rgb(35,35,35); color: rgb(35,35,35);
+  font-style: italic;
+}
+.item-status{
+  font-size: 1.15vw; font-weight: normal; stroke-width: .5px; stroke: limegreen; fill: green; color: green; 
+  text-decoration: none;
+}
+.item-link{
+  font-size: 1.15vw; font-weight: normal; stroke-width: .5px; stroke: skyblue; fill: blue; color: blue; 
+  text-decoration: none;
+}
+.h5{
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* [media] */
+@media screen and (max-width: 160px){
+}
+
+/* [platform classes] */
+.google-sheets{
+  background-image: url(https://ssl.gstatic.com/docs/spreadsheets/favicon_jfk2.png);
+}
