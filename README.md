@@ -10,7 +10,7 @@ There are a lot of independent communities and initiatives around the world tryi
 Who are we?
 -----------
 ‘DIY Science’ is a broad term that includes any initiative that tries to engage with science from a grassroots, non-institutional position: diybio community labs, civic environmental monitoring projects, patient activism groups, bioart collectives, interdisciplinary science hacking communities etc.  
-Connect with the network here: https://groups.google.com/forum/#!forum/diyscience
+We are a growing network - connect with us here: https://groups.google.com/forum/#!forum/diyscience
 
 
 What are we going to work on?
@@ -23,10 +23,10 @@ This project is still very much in development, but there are two main areas we 
 What kind of help do we need?
 -----------------------------
 We are looking for different kinds of help and support from:
-- DIY SCIENTISTS: We'd love to connect with further grassroots citizen science communities or initiatives. You likely have rich experience to share, or perhaps you are ready to take your project further but are facing barriers, for example access to funding, regulation blocks etc, or perhaps you have already overcome barriers - it would be great if you could join our campaign and share your stories!
-- WEB DESIGNERS & GITHUB/JEKYLL DEVELOPERS: We would like to build a simple website to house our content.
-- GOOGLERS: We would be very happy if anyone would like to help us with internet research 
-- CRITICAL FRIENDS: We are trying to develop good strategies to support an emerging sector of civil society - qualified constructive criticism and advice is very welcome. 
+- DIY SCIENTISTS: We'd love to connect with further grassroots citizen science communities or initiatives. Let's pool our experience, learn from each other, find out if perhaps we're facing the same challenges, and do something about it!
+- DIY SCIENCE SUPPORTERS: We would be very happy if anyone would like to donate their google fingers to help with some internet research. Also, more generally, we are trying to develop good strategies to support an emerging sector of civil society - good constructive criticism and advice is very welcome.
+- JEKYLL DEVELOPERS: We want to make (find, fork and adapt) a simple easy-to-edit github pages site.
+- DESIGNERS: We want to be able to communicate effectively with DIY science communities, institutions, AND policy-makers.
 - ADVOCACY EXPERTS: We'd love to hear from anyone who has experience of advocacy work, especially in a European context.
 - TIPS FOR FUNDING: Most of us don't have an institutional affilliation and are already over-stretched volunteer community managers or leads for existing projects. If anyone has any tips for where we could apply for funding to support developing this campaign, at least to cover travel expenses to Brussels etc, that'd be great!
 
